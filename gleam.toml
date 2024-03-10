@@ -1,0 +1,11 @@
+name = "open_color"
+version = "1.0.0"
+
+description = "Gleam implementation of the Open Color scheme"
+licences = ["MIT"]
+repository = { type = "github", user = "salif", repo = "gleam-open-color" }
+links = [{ title = "Website", href = "https://github.com/salif/gleam-open-color" }]
+
+[dependencies]
+
+[dev-dependencies]
